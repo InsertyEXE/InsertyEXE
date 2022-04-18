@@ -7,7 +7,7 @@
 * 🦊 Ele/Dele • ♂️ • 18y • 🏳️‍🌈 <br>
 * Desenvolvedor mobile nativo android 📱
 
-Sou um entusiasta pela segurança da informação, criar sistemas, pela astronomia e curioso por tudo 🌌
+Sou um entusiasta pela segurança da informação, criar sistemas, astronomia e curioso por tudo 🌌
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsertyEXE&theme=tokyonight&show_icons=true&locale=pt-br)
 ![Most lenguage use](https://github-readme-stats.vercel.app/api/top-langs/?username=InsertyEXE&theme=tokyonight&show_icons=true&locale=pt-br)
