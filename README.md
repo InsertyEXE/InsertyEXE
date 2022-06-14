@@ -13,6 +13,7 @@ Como que pode um site oferecer cookies sem um cafezinho sequer pra acompanhar?
 * 🦊 Ele/Dele • ♂️ • 18y • 🏳️‍🌈 <br>
 * Desenvolvedor mobile nativo android 📱
 
+Codar app é minha paixão e meu passa tempo favorito
 Sou um entusiasta pela segurança da informação, criar sistemas, astronomia e curioso por tudo 🌌
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsertyEXE&theme=tokyonight&show_icons=true&locale=pt-br)
