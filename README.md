@@ -13,22 +13,3 @@ Como que pode um site oferecer cookies sem um cafezinho sequer pra acompanhar?
 <a href="https://www.linkedin.com/in/juan-pablo-41aa5b234"><img src="imgs/linkedin.png" width="40">
 <a href="mailto:insertyend@gmail.com"><img src="imgs/email.png" width="40"> -->
 
-* 🐶 Ele/Dele • ♂️ • 19y • 🏳️‍🌈 <br>
-* Desenvolvedor mobile nativo android 📱
-
-Codar app é minha paixão e meu passa tempo favorito
-
-Sou um entusiasta pela segurança da informação, criar sistemas, astronomia e curioso por tudo 🌌
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsertyEXE&theme=tokyonight&show_icons=true&locale=pt-br)
-![Most lenguage use](https://github-readme-stats.vercel.app/api/top-langs/?username=InsertyEXE&theme=tokyonight&show_icons=true&locale=pt-br)
-
-
-
-## Habilidades
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-
